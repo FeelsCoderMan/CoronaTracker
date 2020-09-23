@@ -1,1 +1,2 @@
-# Corona
+# Discord.py Corona Tracker
+
